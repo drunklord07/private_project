@@ -1,0 +1,43 @@
+CERT-In API Security Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This API security assessment report for {{COMPANY_NAME}} follows CERT-In guidelines for API security evaluation and vulnerability identification.
+
+2. API Assessment Scope
+----------------------
+{{SCOPE_TABLE}}
+
+3. API Security Testing Approach
+-------------------------------
+- OWASP API Security Top 10 testing
+- Authentication mechanism analysis
+- Authorization bypass testing
+- Data validation assessment
+- API rate limiting evaluation
+
+4. API Vulnerabilities
+---------------------
+{{VULNERABILITIES}}
+
+5. Additional API Observations
+-----------------------------
+{{OBSERVATIONS}}
+
+6. API Security Recommendations
+------------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Notes
+------------------
+This assessment aligns with CERT-In API security guidelines and industry best practices for API protection.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}

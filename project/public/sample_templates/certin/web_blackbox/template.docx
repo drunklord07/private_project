@@ -1,0 +1,47 @@
+CERT-In Vulnerability Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This vulnerability assessment report has been prepared for {{COMPANY_NAME}} in accordance with CERT-In guidelines and standards. The assessment aimed to identify security vulnerabilities and provide recommendations for remediation.
+
+2. Scope of Assessment
+---------------------
+{{SCOPE_TABLE}}
+
+3. Assessment Methodology
+------------------------
+The assessment was conducted following CERT-In approved methodologies:
+- Network vulnerability scanning
+- Web application security testing
+- Configuration security review
+- Manual verification of findings
+
+4. Vulnerability Details
+-----------------------
+{{VULNERABILITIES}}
+
+5. Additional Observations
+-------------------------
+{{OBSERVATIONS}}
+
+6. Risk Assessment
+-----------------
+The identified vulnerabilities have been classified based on their potential impact and exploitability. Critical and high-severity vulnerabilities require immediate attention.
+
+7. Recommendations
+-----------------
+{{RECOMMENDATIONS}}
+
+8. Conclusion
+------------
+This assessment provides {{COMPANY_NAME}} with detailed findings and actionable recommendations to improve their security posture. Regular security assessments are recommended to maintain an adequate security level.
+
+---
+This report is prepared in compliance with CERT-In guidelines.
+Report Date: {{DATE}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Organization: {{COMPANY_NAME}}

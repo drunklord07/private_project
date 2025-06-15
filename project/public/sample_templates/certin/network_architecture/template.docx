@@ -1,0 +1,42 @@
+CERT-In Network Architecture Security Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This network architecture security assessment report for {{COMPANY_NAME}} follows CERT-In guidelines for infrastructure security evaluation.
+
+2. Architecture Assessment Scope
+-------------------------------
+{{SCOPE_TABLE}}
+
+3. Network Architecture Testing Approach
+---------------------------------------
+- Network topology analysis
+- Security architecture review
+- Network segmentation assessment
+- Access control evaluation
+
+4. Architecture Security Findings
+--------------------------------
+{{VULNERABILITIES}}
+
+5. Architecture Security Observations
+-----------------------------------
+{{OBSERVATIONS}}
+
+6. Architecture Security Recommendations
+---------------------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Notes
+------------------
+This assessment follows CERT-In network architecture security standards and guidelines.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}

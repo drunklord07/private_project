@@ -1,0 +1,42 @@
+CERT-In Configuration Review Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This configuration review assessment report for {{COMPANY_NAME}} follows CERT-In guidelines for system configuration security evaluation.
+
+2. Configuration Assessment Scope
+--------------------------------
+{{SCOPE_TABLE}}
+
+3. Configuration Review Methodology
+----------------------------------
+- System configuration analysis
+- Security baseline comparison
+- Compliance assessment
+- Best practices evaluation
+
+4. Configuration Security Findings
+---------------------------------
+{{VULNERABILITIES}}
+
+5. Configuration Security Observations
+------------------------------------
+{{OBSERVATIONS}}
+
+6. Configuration Security Recommendations
+----------------------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Notes
+------------------
+This assessment follows CERT-In configuration security standards and guidelines.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}

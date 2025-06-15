@@ -1,0 +1,42 @@
+CERT-In Cloud Security Posture Management (CSPM) Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This CSPM assessment report for {{COMPANY_NAME}} follows CERT-In guidelines for cloud security posture evaluation.
+
+2. Cloud Assessment Scope
+------------------------
+{{SCOPE_TABLE}}
+
+3. CSPM Testing Methodology
+--------------------------
+- Cloud configuration assessment
+- Compliance framework evaluation
+- Security policy analysis
+- Access management review
+
+4. Cloud Security Findings
+-------------------------
+{{VULNERABILITIES}}
+
+5. Cloud Security Observations
+-----------------------------
+{{OBSERVATIONS}}
+
+6. Cloud Security Recommendations
+--------------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Notes
+------------------
+This assessment follows CERT-In cloud security standards and guidelines.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}

@@ -1,0 +1,41 @@
+{{COMPANY_NAME}}
+
+Cloud Security Posture Management (CSPM) Assessment Report
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+Executive Summary
+----------------
+This report documents the Cloud Security Posture Management assessment conducted for {{COMPANY_NAME}}, identifying cloud security misconfigurations and compliance gaps.
+
+Cloud Scope
+----------
+{{SCOPE_TABLE}}
+
+CSPM Methodology
+---------------
+- Cloud configuration assessment
+- Compliance framework evaluation
+- Security policy analysis
+- Access management review
+- Data protection assessment
+
+Cloud Security Findings
+----------------------
+{{VULNERABILITIES}}
+
+Cloud Observations
+-----------------
+{{OBSERVATIONS}}
+
+Cloud Security Recommendations
+-----------------------------
+{{RECOMMENDATIONS}}
+
+Conclusion
+----------
+This CSPM assessment provides {{COMPANY_NAME}} with comprehensive insights into their cloud security posture and actionable recommendations for improvement.
+
+---
+Report generated on {{DATE}}
+Assessment Type: {{ENGAGEMENT_TYPE}}

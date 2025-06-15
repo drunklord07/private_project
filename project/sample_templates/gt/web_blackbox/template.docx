@@ -1,0 +1,24 @@
+{{COMPANY_NAME}}
+
+Security Assessment Report
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+Executive Summary
+----------------
+
+Scope
+-----
+{{SCOPE_TABLE}}
+
+Findings
+--------
+{{VULNERABILITIES}}
+
+Additional Observations
+---------------------
+{{OBSERVATIONS}}
+
+Recommendations
+--------------
+{{RECOMMENDATIONS}}

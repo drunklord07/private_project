@@ -1,0 +1,21 @@
+CERT-In Vulnerability Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Scope of Assessment
+---------------------
+{{SCOPE_TABLE}}
+
+2. Vulnerability Details
+-----------------------
+{{VULNERABILITIES}}
+
+3. Additional Observations
+-------------------------
+{{OBSERVATIONS}}
+
+4. Recommendations
+-----------------
+{{RECOMMENDATIONS}}

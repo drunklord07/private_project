@@ -1,0 +1,42 @@
+CERT-In Web Grey Box Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This grey box security assessment report for {{COMPANY_NAME}} follows CERT-In guidelines for comprehensive web application security evaluation.
+
+2. Assessment Scope
+------------------
+{{SCOPE_TABLE}}
+
+3. Grey Box Testing Methodology
+------------------------------
+- Hybrid testing approach combining black box and white box techniques
+- Source code analysis with runtime testing
+- Configuration security review
+- OWASP Top 10 compliance testing
+
+4. Security Vulnerabilities
+--------------------------
+{{VULNERABILITIES}}
+
+5. Additional Security Observations
+----------------------------------
+{{OBSERVATIONS}}
+
+6. Security Recommendations
+--------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Statement
+----------------------
+This assessment has been conducted in accordance with CERT-In security assessment guidelines and industry best practices.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}

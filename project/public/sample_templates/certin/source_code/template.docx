@@ -1,0 +1,42 @@
+CERT-In Source Code Security Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This source code security assessment report for {{COMPANY_NAME}} follows CERT-In guidelines for application security evaluation.
+
+2. Code Review Scope
+-------------------
+{{SCOPE_TABLE}}
+
+3. Code Review Methodology
+-------------------------
+- Static application security testing (SAST)
+- Manual code review
+- Security pattern analysis
+- Dependency vulnerability assessment
+
+4. Code Security Findings
+------------------------
+{{VULNERABILITIES}}
+
+5. Code Security Observations
+----------------------------
+{{OBSERVATIONS}}
+
+6. Secure Development Recommendations
+------------------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Notes
+------------------
+This assessment follows CERT-In application security standards and guidelines.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}

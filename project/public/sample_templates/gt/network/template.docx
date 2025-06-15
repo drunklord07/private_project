@@ -1,0 +1,41 @@
+{{COMPANY_NAME}}
+
+Network Security Assessment Report
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+Executive Summary
+----------------
+This report documents the network security assessment conducted for {{COMPANY_NAME}}, identifying vulnerabilities in network infrastructure and providing recommendations for security improvements.
+
+Network Scope
+------------
+{{SCOPE_TABLE}}
+
+Assessment Methodology
+---------------------
+- Network discovery and enumeration
+- Vulnerability scanning and analysis
+- Port and service analysis
+- Network segmentation review
+- Firewall and security controls testing
+
+Network Vulnerabilities
+----------------------
+{{VULNERABILITIES}}
+
+Network Observations
+-------------------
+{{OBSERVATIONS}}
+
+Security Recommendations
+-----------------------
+{{RECOMMENDATIONS}}
+
+Conclusion
+----------
+This network security assessment provides {{COMPANY_NAME}} with a comprehensive view of their network security posture and actionable recommendations for improvement.
+
+---
+Report generated on {{DATE}}
+Assessment Type: {{ENGAGEMENT_TYPE}}

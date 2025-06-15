@@ -1,0 +1,42 @@
+{{COMPANY_NAME}}
+
+Web Grey Box Security Assessment Report
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+Executive Summary
+----------------
+This report presents the findings of a comprehensive grey box security assessment conducted for {{COMPANY_NAME}}. The assessment combined both black box and white box testing methodologies to provide a thorough evaluation of the web application security posture.
+
+Assessment Scope
+---------------
+{{SCOPE_TABLE}}
+
+Testing Methodology
+------------------
+The grey box assessment included:
+- Source code review and static analysis
+- Dynamic application security testing
+- Configuration review
+- Authentication and authorization testing
+- Business logic testing
+
+Security Findings
+----------------
+{{VULNERABILITIES}}
+
+Additional Observations
+---------------------
+{{OBSERVATIONS}}
+
+Recommendations
+--------------
+{{RECOMMENDATIONS}}
+
+Conclusion
+----------
+This grey box assessment provides {{COMPANY_NAME}} with comprehensive insights into their web application security. The combination of static and dynamic testing methodologies ensures thorough coverage of potential security vulnerabilities.
+
+---
+Report generated on {{DATE}}
+Assessment Type: {{ENGAGEMENT_TYPE}}

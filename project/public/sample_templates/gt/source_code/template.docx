@@ -1,0 +1,41 @@
+{{COMPANY_NAME}}
+
+Source Code Security Assessment Report
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+Executive Summary
+----------------
+This report documents the source code security assessment conducted for {{COMPANY_NAME}}, identifying security vulnerabilities in the application source code.
+
+Code Review Scope
+----------------
+{{SCOPE_TABLE}}
+
+Review Methodology
+-----------------
+- Static application security testing (SAST)
+- Manual code review
+- Security pattern analysis
+- Dependency vulnerability assessment
+- Secure coding standards evaluation
+
+Code Security Findings
+---------------------
+{{VULNERABILITIES}}
+
+Code Review Observations
+-----------------------
+{{OBSERVATIONS}}
+
+Secure Development Recommendations
+---------------------------------
+{{RECOMMENDATIONS}}
+
+Conclusion
+----------
+This source code assessment provides {{COMPANY_NAME}} with detailed findings and recommendations to improve application security through secure coding practices.
+
+---
+Report generated on {{DATE}}
+Assessment Type: {{ENGAGEMENT_TYPE}}

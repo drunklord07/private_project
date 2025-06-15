@@ -1,0 +1,42 @@
+CERT-In Network Security Assessment Report
+
+Organization: {{COMPANY_NAME}}
+Assessment Type: {{ENGAGEMENT_TYPE}}
+Date: {{DATE}}
+
+1. Executive Summary
+-------------------
+This network security assessment report for {{COMPANY_NAME}} has been prepared in accordance with CERT-In network security guidelines.
+
+2. Network Assessment Scope
+--------------------------
+{{SCOPE_TABLE}}
+
+3. Network Security Testing Approach
+-----------------------------------
+- Comprehensive network discovery
+- Vulnerability assessment and penetration testing
+- Network architecture review
+- Security controls evaluation
+
+4. Network Security Findings
+---------------------------
+{{VULNERABILITIES}}
+
+5. Network Security Observations
+-------------------------------
+{{OBSERVATIONS}}
+
+6. Network Security Recommendations
+----------------------------------
+{{RECOMMENDATIONS}}
+
+7. Compliance Notes
+------------------
+This assessment follows CERT-In network security assessment standards and guidelines.
+
+---
+CERT-In Compliant Report
+Date: {{DATE}}
+Organization: {{COMPANY_NAME}}
+Assessment: {{ENGAGEMENT_TYPE}}
